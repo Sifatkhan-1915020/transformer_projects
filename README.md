@@ -8,4 +8,7 @@ Here,
 
     🚩Steps: CardiacNet dataset ---> label ---> best slices selection which can label A4C of heart ---> same slices from the .nii images ---> Test_train dataset ---> ViT model (with & without pretrained weight) ---> classification 
 
+✅ smoking.ipynb for people who smoking classification from image 
+✅ EEG SEED V for emotion classification using subject 1 session 1 
+
 Other files are different implementations of the transformer model on various dataset.
