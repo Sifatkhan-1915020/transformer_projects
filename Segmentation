@@ -1,0 +1,11 @@
+👉👉 Skin lession detection 
+Model performance enhnacement using 
+✅ watershed algorithm based ground truth masking 
+✅ Unet 
+✅ Resnet based Modifed UNet
+✅ DeeplabV3+ 
+⚡⚡ above 90% accuracy in all model
+⚡⚡⚡ almost 96% accuracy in deeplabv3++ model
+🛣️ images with lession -----> gray image conversion -------> morphological watershed algorithm based ground truth image developing --------> test-train spliting ------> model based segmentation⚡⚡
+
+
